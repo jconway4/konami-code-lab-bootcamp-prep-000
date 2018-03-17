@@ -14,7 +14,7 @@ var codeFunction = function(e) {
 }
 
 
-function init() {
+var init = function() {
   const body = document.querySelector('body');
   let i = 0;
   let codeChecker = [];
