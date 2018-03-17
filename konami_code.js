@@ -9,7 +9,6 @@ function init() {
       codeFunction(e);
       }
     )}
-};
 
 var codeFunction = function(e) {
   const key = parseInt(e.detail || e.which);
@@ -23,4 +22,4 @@ var codeFunction = function(e) {
       codeChecker = [];
     }
 }
-}
+};
