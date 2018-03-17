@@ -18,13 +18,6 @@ function init() {
         i = 0;
         codeChecker = [];
       }
-<<<<<<< HEAD
-    } else {
-=======
-    } else{
->>>>>>> 9ac12a9c1d919fdeff3928508b61baa6389d9375
-      i = 0;
-      codeChecker = [];
     }
   });
 }
