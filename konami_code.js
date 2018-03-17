@@ -6,7 +6,7 @@ function init() {
   let i = 0;
   let codeChecker = [];
   
-  body.addEventListener('keydown', function(e) {
+  body.addEventListener('keydown', f(e) {
     const key = parseInt(e.detail || e.which);
     if (key === code[i]) {
       i++;
