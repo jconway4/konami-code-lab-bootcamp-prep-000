@@ -23,4 +23,4 @@ var codeFunction = function(e) {
       codeChecker = [];
     }
 }
-
+}
