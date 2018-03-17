@@ -16,7 +16,7 @@ function init() {
         }
       }
       
-for (let i=0;i<code.length;i++){
-  document.body.addEventListener('keydown', onKeyDownHandler);
+  for (let i=0;i<code.length;i++){
+    document.body.addEventListener('keydown', onKeyDownHandler);
   }
 }
