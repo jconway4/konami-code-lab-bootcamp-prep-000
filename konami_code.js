@@ -20,6 +20,7 @@ function init() {
   let codeChecker = [];
   
   body.addEventListener('keydown', function(e) {
+      codeFunction(e);
       }
     }
   });
