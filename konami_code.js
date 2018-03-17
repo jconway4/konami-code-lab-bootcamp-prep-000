@@ -22,6 +22,5 @@ function init() {
   body.addEventListener('keydown', function(e) {
       codeFunction(e);
       }
-    }
-  });
-}
+    )}
+};
